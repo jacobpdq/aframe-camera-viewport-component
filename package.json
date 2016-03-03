@@ -1,0 +1,33 @@
+{
+  "name": "aframe-orbit-controls",
+  "version": "0.1.0",
+  "description": "orbit controls for aframe, based on three-orbit-controls",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Jacob Friedman",
+    "email": "jacob@subsumo.com",
+    "url": "https://github.com/subsumo"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "aframe" "^0.1.2"
+  },
+  "keywords": [
+    "orbit",
+    "controls",
+    "aframe",
+    "js",
+    "orbiter",
+    "camera",
+    "controller"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/subsumo/aframe-orbit-controls.git"
+  },
+  "homepage": "https://github.com/subsumo/aframe-orbit-controls",
+  "bugs": {
+    "url": "https://github.com/subsumo/aframe-orbit-controls/issues"
+  }
+}
