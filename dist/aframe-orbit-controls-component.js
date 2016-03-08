@@ -55,7 +55,7 @@
 	 * Orbit Controls component for A-Frame.
 	 */
 
-	AFRAME.registerComponent('orbit-controls', {
+	AFRAME.aframeCore.registerComponent('orbit-controls', {
 
 	schema: {
 	  },
