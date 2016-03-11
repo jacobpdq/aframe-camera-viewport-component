@@ -1,7 +1,7 @@
 {
   "name": "aframe-orbit-controls-component",
-  "version": "0.1.2",
-  "description": "Orbit Controls component for A-Frame VR.",
+  "version": "0.9.0",
+  "description": "Orbiting Controls component for A-Frame VR",
   "main": "index.js",
   "scripts": {
     "build": "browserify examples/main.js -o examples/build.js",

@@ -23,8 +23,8 @@ Install and use by directly including the [browser files](dist):
 
 <body>
     <a-scene>
-      <a-camera orbit-controls look-controls-enabled=false wasd-controls-enabled=true position="0 0 0" ></a-camera>
-      <a-sphere position="0 0 1" radius="0.1" color="#EF2D5E"></a-sphere>
+      <a-camera target="#target" distance="1" orbit-controls look-controls-enabled=false wasd-controls-enabled=true position="0 0 0" ></a-camera>
+      <a-sphere id="target" position="0 0 1" radius="0.1" color="#EF2D5E"></a-sphere>
       <a-sky src="https://upload.wikimedia.org/wikipedia/commons/8/83/Equirectangular_projection_SW.jpg"></a-sky>
     </a-scene>
 </body>
