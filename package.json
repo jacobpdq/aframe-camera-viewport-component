@@ -1,7 +1,7 @@
 {
-  "name": "aframe-orbit-controls-component",
+  "name": "aframe-camera-viewport-component",
   "version": "1.0.0",
-  "description": "Orbiting Controls component for A-Frame VR",
+  "description": "Camera Viewport functions for the Camera for A-Frame VR",
   "main": "index.js",
   "scripts": {
     "build": "browserify examples/main.js -o examples/build.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/subsumo/aframe-orbit-controls.git"
+    "url": "git+https://github.com/subsumo/aframe-camera-viewport-component.git"
   },
   "keywords": [
     "aframe",
@@ -30,9 +30,9 @@
   "author": "Jacob Friedman <jacob@subsumo.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/subsumo/aframe-orbit-controls/issues"
+    "url": "https://github.com/subsumo/aframe-camera-viewport-component/issues"
   },
-  "homepage": "https://github.com/subsumo/aframe-orbit-controls#readme",
+  "homepage": "https://github.com/subsumo/aframe-camera-viewport-component#readme",
   "devDependencies": {
     "aframe": "aframevr/aframe#dev",
     "browserify": "^12.0.1",
